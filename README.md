@@ -13,6 +13,7 @@ Achieved: 0.144 minutes (37% better)
 R² score: 0.978
 
 ## 📁 Repository Structure
+```
 ├── research/
 │   ├── IE7615_project.ipynb    # Experimentation and model development
 │   └── file                     # Supporting research files
@@ -26,6 +27,7 @@ R² score: 0.978
 ├── requirements.txt             # Project dependencies
 ├── .gitignore
 └── README.md
+```
 
 ## 🔑 Key Features
 
