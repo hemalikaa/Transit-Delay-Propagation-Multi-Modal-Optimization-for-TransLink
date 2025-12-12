@@ -7,10 +7,10 @@ A deep learning system for predicting transit delays in Vancouver's public trans
 This project develops a predictive model for TransLink Vancouver transit delays using deep neural networks and comprehensive feature engineering. The model processes real-time and historical transit data to predict delays with high accuracy, enabling better service planning and passenger communication.
 
 **Key Results:**
-- **Mean Absolute Error (MAE):** 0.1442 minutes (Target: 0.229 minutes)
-- **R² Score:** 0.9783
-- **Performance Improvement:** 37.3% better than target baseline
-- **Dataset Size:** 4.78 million transit records
+Target MAE: 0.230 minutes
+Achieved: 0.144 minutes (37% better)
+98.1% predictions within 1 minute
+R² score: 0.978
 
 ## 📁 Repository Structure
 ├── research/
