@@ -126,6 +126,10 @@ Clean presentation of final results:
 **Institution:** Northeastern University  
 **Program:** Master's in Data Analytics Engineering
 
+## Authors
+*Hemalikaa Thirumavalavan* - tvhemalikaa@gmail.com
+*Muskan Sharma* - muskansharma180902@gmail.com
+
 ## 🛠️ Technical Stack
 
 - **Deep Learning:** TensorFlow, Keras
